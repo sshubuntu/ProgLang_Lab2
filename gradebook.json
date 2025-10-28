@@ -1,12 +1,7 @@
 [
   {
-    "Name": "егор",
-    "Subject": "3",
-    "Mark": 3
-  },
-  {
-    "Name": "егор",
-    "Subject": "2",
+    "Name": "Student",
+    "Subject": "Programming languages",
     "Mark": 5
   }
 ]
